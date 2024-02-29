@@ -1,6 +1,10 @@
 # AKGVP
 Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA 2024)
 
+
+https://github.com/nuoxu/AKGVP/assets/26222001/cf7bdba4-3939-4df5-997c-8fe199ad06bf
+
+
 ## Setup
 - Clone the repository and move into the top-level directory `cd AKGVP`
 - Create conda environment. `conda env create -f environment.yml`
