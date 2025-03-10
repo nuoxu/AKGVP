@@ -4,7 +4,7 @@ Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA
 https://github.com/nuoxu/AKGVP/assets/26222001/63f38873-c51c-4b1e-9d76-cf716ef0de07
 
 ## Update
-Since the dataset link has expired, we have uploaded a backup copy of the dataset [AI2THOR]([https://github.com/sx-zhang/HOZ.git](https://www.kaggle.com/datasets/hellob/ai2thor-clip)). Please check it.
+Since the dataset link has expired, we have uploaded a backup copy of the dataset [AI2THOR](https://www.kaggle.com/datasets/hellob/ai2thor-clip). Please check it.
 
 ## Setup
 - Clone the repository and move into the top-level directory `cd AKGVP`
