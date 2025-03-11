@@ -4,7 +4,7 @@ Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA
 https://github.com/nuoxu/AKGVP/assets/26222001/63f38873-c51c-4b1e-9d76-cf716ef0de07
 
 ## Update
-The dataset used in the paper can be found [here](https://github.com/xiaobaishu0097/ECCV-VN?tab=readme-ov-file) Since the link of RGB data has expired, we have uploaded a backup copy of the [RGB data](https://www.kaggle.com/datasets/hellob/ai2thor-clip). Please check it.
+The dataset used in the paper can be found [here](https://github.com/xiaobaishu0097/ECCV-VN?tab=readme-ov-file). Since the link of RGB data has expired, we have uploaded a backup copy of the [RGB data](https://www.kaggle.com/datasets/hellob/ai2thor-clip). Please check it.
 
 ## Setup
 - Clone the repository and move into the top-level directory `cd AKGVP`
