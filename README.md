@@ -1,5 +1,4 @@
-# AKGVP
-Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA 2024)
+# Aligning Knowledge Graph with Visual Perception for Object-goal Navigation (ICRA 2024)
 
 https://github.com/nuoxu/AKGVP/assets/26222001/63f38873-c51c-4b1e-9d76-cf716ef0de07
 
