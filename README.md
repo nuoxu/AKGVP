@@ -37,3 +37,15 @@ python full_eval.py \
 ```shell
 python visualization.py
 ```
+
+You can cite our paper as:
+```
+@inproceedings{xu2024aligning,
+  title={Aligning knowledge graph with visual perception for object-goal navigation},
+  author={Xu, Nuo and Wang, Wen and Yang, Rong and Qin, Mengjie and Lin, Zheyuan and Song, Wei and Zhang, Chunlong and Gu, Jason and Li, Chao},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5214--5220},
+  year={2024},
+  organization={IEEE}
+}
+```
